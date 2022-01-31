@@ -4,10 +4,6 @@
         "backend:install": "cd reactnd-contacts-server && npm install",
         "frontend:build": "cd reactnd-contacts-complete && npm run build",
         "backend:build": "cd reactnd-contacts-server && npm run build",
-<<<<<<< HEAD
         "frontend:deploy": "chmod +x bin/deploy.sh && bin/deploy.sh"
-=======
-        "frontend:deploy": "chmod +x bin/deploy && bin/deploy "
->>>>>>> 1cc304e0b7abcea5629abcfcdf2632cc4bafb6fe
     }
 }
